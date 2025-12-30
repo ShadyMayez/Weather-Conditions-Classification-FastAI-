@@ -1,0 +1,8 @@
+
+fastai
+fastcore
+torch
+torchvision
+pandas
+numpy
+matplotlib
